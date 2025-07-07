@@ -24,10 +24,5 @@ Achieved high accuracy on test set using SVM
 2. Run each cell step by step
 3. Try uploading your own image for prediction!
 
-## 🙋‍♀️ Author
-**Lakshmi Varada C**  
-ML Enthusiast | Beginner Project
-
----
 
 > ⭐ Star this repo if you liked it!
